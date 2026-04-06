@@ -107,7 +107,7 @@ RL agent trained to play osu! via visual perception — PPO + PyTorch CNN encode
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=faheemsarawr17&theme=violet-punch)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faheemsarwar17&theme=violet-punch)](https://git.io/streak-stats)
 
 </div>
 
