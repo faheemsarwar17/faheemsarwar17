@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+FAHEEM+SARWAR" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HI!;I'm+FAHEEM+SARWAR" alt="Typing Animation" />
 
 **Software Engineer @ Oxibit · Full-Stack & AI · NUCES FAST '27**
 
