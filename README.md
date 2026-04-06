@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Faheem Sarwar 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+FAHEEM+SARWAR" alt="Typing Animation" />
 
 **Software Engineer @ Oxibit · Full-Stack & AI · NUCES FAST '27**
 
@@ -47,6 +47,7 @@ Background in motion graphics taught me how to communicate clearly. Three and a 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -106,9 +107,7 @@ RL agent trained to play osu! via visual perception — PPO + PyTorch CNN encode
 
 <div align="center">
 
-![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheemsarwar17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheemsarwar17&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faheemsarawr17&theme=violet-punch)](https://git.io/streak-stats)
 
 </div>
 
